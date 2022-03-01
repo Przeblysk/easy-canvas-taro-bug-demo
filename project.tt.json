@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "easy-canvas-demo",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
